@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.Button{
+    width: 168px;
+    height: 44px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
